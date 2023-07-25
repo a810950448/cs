@@ -1,7 +1,7 @@
 # CS
 Crossfire Speaker
 
-Steam Sound from A to B
+Stream Sound from A to B
 
 Crossfire Platform
 
