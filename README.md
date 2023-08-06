@@ -1,5 +1,5 @@
 # CS
-Crossfire Speaker
+Crossfire Sound
 
 Stream Sound from A to B
 
